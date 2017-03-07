@@ -4,7 +4,7 @@ subl# This is a list of all the names of people working on this project
 Rucha Rathor
 Benjamin Chow - Ben
 Nitesh Goyal 
-Neeru Gupta
+Neeru Gupta - White
 Shaurav Ranjan
 Vibha Yadav- vib
 Akansha Chitransh - Gunnie
