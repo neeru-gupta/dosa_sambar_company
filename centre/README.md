@@ -106,9 +106,7 @@ To build the css and js files, run
 
 `gulp build`
 
-To update bower dependencies (ie get latest version of aurora if there is a new update), run:
-`bower install` then check in the new files.
-
+To update bower dependencies (get aurora updates), run: bower install then check in the new files and all dependencies
 
 ### Analytics
 See [Analytics Documents](docs/analytics.md) for a `how-to` overview.
